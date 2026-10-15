@@ -16,6 +16,8 @@ Five web properties, five different approaches. This site is the winner's build:
 
 Killed on mechanism grounds: ballerpath.com's video-free reflection-only loop (weakest verifiable proof — the parent never sees the work) and Storm Connect as a separate property (same loop + record; merged, not kept).
 
+Oct 15 revision — the proof ladder: transfer reframed from "games or nothing" into three rungs (work → skill → transfer) so players without game minutes are fully included; the game log widened to a "compete log" (games, pickup runs, open gym, 1v1 — wherever there's a defender); the 6-week re-test promoted to the primary proof surface for non-starters.
+
 ## The accountability engine (10 mechanisms)
 
 1. Weekly deadlines — rhythm is accountability
